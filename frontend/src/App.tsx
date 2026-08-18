@@ -1,5 +1,5 @@
 import React from 'react'
-import QueryExample from './components/QueryExample'
+import QueryExample from './components/QueryExampleWithFetch'
 
 const App = () => {
   return (
